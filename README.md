@@ -15,9 +15,8 @@
   <div>
     <h2>About Me</h3>
     <p>Actually I'm a student of Information Tegnology</p>
-    <br>
     <p>📲: +52-246-220-7373</p>
-    <p>📧|: harrywilsonth01@gmail.com</p>
+    <p>📧: harrywilsonth01@gmail.com</p>
   </div>
   <div>
     <h2>🧠 My Skills:</p>
