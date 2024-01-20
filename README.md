@@ -13,14 +13,14 @@
 <hr>
 <div id="about">
   <div>
-    <h3>About Me</h3>
+    <h2>About Me</h3>
     <p>Actually I'm a student of Information Tegnology</p>
     <br>
     <p>📲: +52-246-220-7373</p>
     <p>📧|: harrywilsonth01@gmail.com</p>
   </div>
   <div>
-    <h3>🧠 My Skills:</p>
+    <h2>🧠 My Skills:</p>
     <div id="images">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
