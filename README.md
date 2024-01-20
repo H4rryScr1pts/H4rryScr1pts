@@ -8,23 +8,31 @@
 </div>
 <div>
   <p>🌐 Web Developer</p>
-  <p>📱: +52 246-220-7373</p>
-  <p>📧: harrywilsonth01@gmail.com</p>
+  <p>📱 Android Developer</p>
 </div>
 <hr>
-<div id="lenguages">
-  <h3>🧠 My Skills:</p>
-  <div id="images">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
+<div id="about">
+  <div>
+    <h3>About Me</h3>
+    <p>Actually I'm a student of Information Tegnology</p>
+    <br>
+    <p>📲: +52-246-220-7373</p>
+    <p>📧|: harrywilsonth01@gmail.com</p>
+  </div>
+  <div>
+    <h3>🧠 My Skills:</p>
+    <div id="images">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
+    </div>
   </div>
 </div>
