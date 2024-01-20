@@ -5,6 +5,8 @@
     I am a Software Developer specialized in Web and Mobile Development. I live in Tlaxcala, Mexico and I am passionate about Technology. 
     I love learning new things, living new adventures and meeting new people in the world of Software Development.
   <p>
+</div>
+<div>
   <p>🌐 Web Developer</p>
   <p>📱 Android Developer</p>
 </div>
