@@ -11,7 +11,9 @@
   <p>📱 Android Developer</p>
 </div>
 <hr>
-  <h3>💻 My Skills:</p>
 <div id="lenguages">
-  
+  <h3>💻 My Skills:</p>
+  <div id="images">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
+  </div>
 </div>
