@@ -29,18 +29,15 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="40" height="40">
       </div>
-      <hr>
       <h2>Back End</h2>
       <div id="back">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" width="40" height="40">
       </div>
-      <hr>
       <h2>Databases</h2>
     <div id="data">
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40">
     </div>
-      <hr>
       <h2>Extra</h2>
       <div id="etra">
           <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40">
