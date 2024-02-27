@@ -20,11 +20,15 @@
   </div>
   <div>
     <h1>🧠 My Skills:</p>
+      <hr>
+      <h2>Front End</h2>
+      <div id="front">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"
+          <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40">
+      </div>
     <div id="images">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40">
